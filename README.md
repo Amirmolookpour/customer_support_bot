@@ -143,6 +143,6 @@ DB_PATH=database/analytics.db
 
 ## 🙋 Author
 
-**Omid Shadpour**
-- GitHub: [@omidshadpour](https://github.com/omidshadpour)
+**Amir Molookpour**
+- GitHub: [@Amirmolookpour](https://github.com/Amirmolookpour)
 
